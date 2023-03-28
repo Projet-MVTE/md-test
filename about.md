@@ -2,7 +2,7 @@
 This is a random about page to test features.
 
 ## Title1
-This first part is **bold** and __italics__.
+This first part is **bold** and _italics_.
 
 ## Title2
 ### Title2.1
