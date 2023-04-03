@@ -11,11 +11,5 @@ and code :
 
 ```python
 def f(x):
-	return 2*x
+	return 2*x + 2
 ```
-
-But also caption
-	lorem ipsum dolor
-
-and :
-> sit amet
